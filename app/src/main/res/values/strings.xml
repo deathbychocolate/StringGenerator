@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="THANK_YOU">Thank you for taking the time to try out my App!\n\n
+        This is my first published and would be more than happy to receive feedback you may have on it.</string>
+    <string name="mainButtonText">Generate Password</string>
+</resources>
